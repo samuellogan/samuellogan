@@ -6,3 +6,6 @@ This is a little weekend project that I worked on that makes use of Swing for Ja
 
 ## [URL Shortner](https://github.com/samuellogan/shorturl)
 This is another little project that makes use of Spring.js and acts as a URL shortening service. It stores shortened URLs in a SQLite database, and along with a basic webpage that acts as a frontend, acts as a very basic URL shortner.
+
+## [Mazes](https://github.com/samuellogan/mazes)
+This is what I'm currently working on - a program that both generates and solves mazes of a given size, all while showing the user a step by step breakdown of how the algorythm works
